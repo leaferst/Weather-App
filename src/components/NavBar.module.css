@@ -1,0 +1,16 @@
+.NavBarContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 40px;
+    margin-left: 20px;
+    width: 150px;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgba(228, 240, 248, 0.808);
+    font-size: 20px;
+    line-height: 35px;
+}
